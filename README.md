@@ -62,6 +62,8 @@ homepage property or json data won't load.
 <a href="https://www.w3docs.com/snippets/css/how-to-create-polaroid-image-with-css.html#">Polaroid effect</a> <br/>
 <a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
 
+- https://dorota1997.github.io/react-frontend-dev-portfolio/
+
 <h3>:memo: Changelog</h3>
 <details>
 <summary>[ 05.03.2022, contributor: <a href="https://github.com/mangelarilla">@mangelarilla</a> ]</summary>
