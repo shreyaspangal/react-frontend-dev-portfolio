@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+// import { FontAwesomeIcon  } from "fortawesome/react-fontawesome";
 import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
@@ -26,9 +27,10 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="250px"
+                    height="260px"
+                    width="200px"
                     src={profilepic}
-                    alt="Avatar placeholder"
+                    alt="Shreyas Pangal"
                   />
                   <Icon
                     icon={angularIcon}
@@ -42,6 +44,7 @@ class About extends Component {
                     icon={vueIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
+                  {/* <FontAwesomeIcon icon="fab fa-git" /> */}
                 </span>
               </div>
             </div>
