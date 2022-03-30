@@ -12,6 +12,7 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var github = this.props.data.github;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -89,11 +90,26 @@ class ProjectDetailsModal extends Component {
                   <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i>
+                  ></i> Website
+                </a>
+              ) : null} &nbsp;
+              {github ? (
+                <a
+                  href={github}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="fas fa-external-link-alt"
+                    style={{ marginLeft: "10px" }}
+                  ></i> Github
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <p className="modal-description">
+              <span style={{ fontSize: "1.6rem" }}>{description}</span>
+            </p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>
