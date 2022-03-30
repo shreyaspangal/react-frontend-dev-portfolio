@@ -1,114 +1,111 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Shreyas Pangal. Fictional person for preview purposes :) I'm working with newest front-end frameworks like React and Material UI. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Shreyas Pangal. I'm working with newest front-end frameworks like React and Material UI. I am a Front-End Web Developer. I create web apps and build user experiences. I am currently undergoing a boot camp at Crio.do for Full Stack development. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "QTrip",
+      "startDate": "2021",
+      "description": "QTrip is a dynamic travel website where you can find Itinerary details of particular tour and filter locations and experiences according to your needs.",
+      "images": [
+        "images/portfolio/travel/qtrip-homepage.png",
+        "images/portfolio/travel/qtrip-explorepage.png"
+      ],
+      "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
+      "github": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "QTrip",
-        "startDate": "2021",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Crio Newsfeed",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Crio",
-        "title": "Apprenticeship",
-        "years": "01.2022 - present",
-        "mainTech": [
-          "React 4/3/22"
-        ],
-        "technologies": [
-          "REST API",
-          "JavaScript",
-          "Ajax",
-          "React Hooks",
-          "Material UI"
-        ]
-      },
-      {
-        "company": "Crio",
-        "title": "Apprenticeship",
-        "years": "10.2021 - 12.2021",
-        "mainTech": [
-          "React 5/10/21"
-        ],
-        "technologies": [
-          "REST API",
-          "HTML5",
-          "CSS3",
-          "JavaScript",
-          "Bootstrap"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Crio Newsfeed",
+      "startDate": "2022",
+      "description": " Crio News Feed website is an aggregator which aggregates news content from different websites in one place. It consists of news articles grouped under various topics such as Technology, Politics, Sports etc. I developed this project using HTML, CSS, Bootstrap and JavaScript.",
+      "images": [
+        "images/portfolio/news/breaking-news.jpg",
+        "images/portfolio/news/news-on-mobile.jpg"
+      ],
+      "url": "https://newsfeed-shreyaspangal.netlify.app/",
+      "github": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "github": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Crio",
+      "title": "Apprenticeship",
+      "years": "01.2022 - present",
+      "mainTech": ["React 4/3/22"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Ajax",
+        "React Hooks",
+        "Material UI"
+      ]
+    },
+    {
+      "company": "Crio",
+      "title": "Apprenticeship",
+      "years": "10.2021 - 12.2021",
+      "mainTech": ["React 5/10/21"],
+      "technologies": ["REST API", "HTML5", "CSS3", "JavaScript", "Bootstrap"]
+    }
+  ]
+}
