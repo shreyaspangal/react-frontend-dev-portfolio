@@ -90,9 +90,11 @@ class ProjectDetailsModal extends Component {
                   <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i> Website
+                  ></i>{" "}
+                  Website
                 </a>
-              ) : null} &nbsp;
+              ) : null}{" "}
+              &nbsp;
               {github ? (
                 <a
                   href={github}
@@ -103,7 +105,8 @@ class ProjectDetailsModal extends Component {
                   <i
                     className="fas fa-external-link-alt"
                     style={{ marginLeft: "10px" }}
-                  ></i> Github
+                  ></i>{" "}
+                  Github
                 </a>
               ) : null}
             </h3>
@@ -111,7 +114,9 @@ class ProjectDetailsModal extends Component {
               <span style={{ fontSize: "1.6rem" }}>{description}</span>
             </p>
             <div className="col-md-12 text-center">
-              <ul className="list-inline mx-auto">{tech}</ul>
+              <ul className="list-inline mx-auto">
+                <span style={{ fontSize: "1.3rem" }}>{tech}</span>
+              </ul>
             </div>
           </div>
         </div>
