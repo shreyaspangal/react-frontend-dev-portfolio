@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-// import { FontAwesomeIcon  } from "fortawesome/react-fontawesome";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+// import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+// import vueIcon from "@iconify/icons-logos/vue";
 
 class About extends Component {
   render() {
@@ -32,19 +31,18 @@ class About extends Component {
                     src={profilepic}
                     alt="Shreyas Pangal"
                   />
-                  <Icon
+                  {/* <Icon
                     icon={angularIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  /> */}
                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
-                  <Icon
+                  {/* <Icon
                     icon={vueIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  {/* <FontAwesomeIcon icon="fab fa-git" /> */}
+                  /> */}
                 </span>
               </div>
             </div>
