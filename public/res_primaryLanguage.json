@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Shreyas Pangal. I'm working with newest front-end frameworks like React and Material UI. I am a Front-End Web Developer and inspired to create web apps and build user experiences. I am currently undergoing a bootcamp at Crio.do for Full Stack Web Development. Thank you 💜",
+    "description": "👋 I'm Shreyas Pangal. I am a Front-End Web Developer, inspired to create web apps and build user experiences. I'm working with front-end frameworks like React and Material UI. I am currently undergoing a bootcamp at Crio.do for Full Stack Web Development - learning MERN stack.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -63,7 +63,7 @@
     {
       "title": "QKart Frontend (coming soon)",
       "startDate": "2022 March",
-      "description": "One of the first e-commerce apps I was working on my internship. This project helped me understand frontend development using React.js and built a complete E-commerce application. I've learned a lot about react hooks and how to integrate it seamlessly with Material UI.",
+      "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
       "images": [
         "images/portfolio/pending/coming-soon.webp",
         "images/portfolio/pending/qkart-homepage.png"
@@ -104,7 +104,7 @@
       "company": "Crio",
       "title": "Fellowship Program",
       "years": "10.2021 - 12.2021",
-      "mainTech": ["React 5/10/21"],
+      "mainTech": ["Javascript 5/10/21"],
       "technologies": ["REST API", "HTML5", "CSS3", "JavaScript", "Bootstrap"]
     }
   ]
