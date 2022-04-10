@@ -93,11 +93,10 @@
       "years": "01.2022 - present",
       "mainTech": ["React 4/3/22"],
       "technologies": [
-        "REST API",
-        "JavaScript",
-        "Ajax",
         "React Hooks",
-        "Material UI"
+        "Material UI",
+        "Node Js",
+        "Express"
       ]
     },
     {
@@ -105,7 +104,7 @@
       "title": "Fellowship Program",
       "years": "10.2021 - 12.2021",
       "mainTech": ["Javascript 5/10/21"],
-      "technologies": ["REST API", "HTML5", "CSS3", "JavaScript", "Bootstrap"]
+      "technologies": ["REST API", "HTML5", "CSS3", "JavaScript", "Bootstrap", "Ajax"]
     }
   ]
 }
