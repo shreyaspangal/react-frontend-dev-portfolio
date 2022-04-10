@@ -65,8 +65,8 @@
       "startDate": "2022 March",
       "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
       "images": [
-        "images/portfolio/pending/coming-soon.webp",
-        "images/portfolio/pending/qkart-homepage.png"
+        "images/portfolio/shopping/qkart-homepage.png",
+        "images/portfolio/shopping/qkart-checkoutpage.png"
       ],
       "url": "https://qkart-in.netlify.app/",
 
