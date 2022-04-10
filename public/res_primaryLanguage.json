@@ -19,7 +19,7 @@
         "images/portfolio/travel/qtrip-explorepage.png"
       ],
       "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
-      "github": "https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1638082759649/shreyaspangal03-ME_QTRIPDYNAMIC",
+
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -44,7 +44,7 @@
         "images/portfolio/news/news-on-mobile.jpg"
       ],
       "url": "https://newsfeed-shreyaspangal.netlify.app/",
-      "github": "https://gitlab.crio.do/COHORT_ME_BUILDOUT_XBOARD_ENROLL_1640174209775/shreyaspangal03-ME_BUILDOUT_XBOARD",
+
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -61,13 +61,14 @@
       ]
     },
     {
-      "title": "QKart Frontend (coming soon)",
+      "title": "QKart Frontend",
       "startDate": "2022 March",
       "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
       "images": [
         "images/portfolio/pending/coming-soon.webp",
         "images/portfolio/pending/qkart-homepage.png"
       ],
+      "url": "https://qkart-in.netlify.app/",
 
       "technologies": [
         {
@@ -82,7 +83,6 @@
           "class": "devicon-materialui-plain",
           "name": "Material UI"
         }
-      
       ]
     }
   ],
