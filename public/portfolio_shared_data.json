@@ -1,63 +1,63 @@
 {
-    "basic_info": {
-      "name": "Shreyas Pangal",
-      "titles": [ "Front-end Developer", "UX/UI Designer" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/shreyaspangal",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/shreyaspangal/",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "shreyas-selfie.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "85"
-        },
-        {
-          "name": "Material UI",
-          "class": "devicon-materialui-plain",
-          "level": "85"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "85"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Shreyas Pangal",
+    "titles": ["Front-end Developer", "UX/UI Designer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/shreyaspangal",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shreyaspangal/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "shreyas-selfie.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "85"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "85"
+      },
+      {
+        "name": "Node",
+        "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "85"
+      }
+    ]
   }
+}
