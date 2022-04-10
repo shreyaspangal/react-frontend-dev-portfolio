@@ -11,27 +11,27 @@
   },
   "projects": [
     {
-      "title": "QTrip",
-      "startDate": "2022 Jan",
-      "description": "QTrip is a dynamic travel website where you can find Itinerary details of particular tour and filter locations and experiences according to your needs.",
+      "title": "QKart Frontend",
+      "startDate": "2022 March",
+      "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
       "images": [
-        "images/portfolio/travel/qtrip-homepage.png",
-        "images/portfolio/travel/qtrip-explorepage.png"
+        "images/portfolio/shopping/qkart-homepage.png",
+        "images/portfolio/shopping/qkart-checkoutpage.png"
       ],
-      "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
+      "url": "https://qkart-in.netlify.app/",
 
       "technologies": [
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        },
-        {
           "class": "devicon-javascript-plain",
-          "name": "Javascript"
+          "name": "Javascript Es6+"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
         }
       ]
     },
@@ -61,27 +61,27 @@
       ]
     },
     {
-      "title": "QKart Frontend",
-      "startDate": "2022 March",
-      "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
+      "title": "QTrip",
+      "startDate": "2022 Jan",
+      "description": "QTrip is a dynamic travel website where you can find Itinerary details of particular tour and filter locations and experiences according to your needs.",
       "images": [
-        "images/portfolio/shopping/qkart-homepage.png",
-        "images/portfolio/shopping/qkart-checkoutpage.png"
+        "images/portfolio/travel/qtrip-homepage.png",
+        "images/portfolio/travel/qtrip-explorepage.png"
       ],
-      "url": "https://qkart-in.netlify.app/",
+      "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
 
       "technologies": [
         {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
           "class": "devicon-javascript-plain",
-          "name": "Javascript Es6+"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-materialui-plain",
-          "name": "Material UI"
+          "name": "Javascript"
         }
       ]
     }
