@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Shreyas Pangal. I am a Front-End Web Developer, inspired to create web apps and build user experiences. I'm working with front-end frameworks like React and Material UI. I am currently undergoing a bootcamp at Crio.do for Full Stack Web Development - learning MERN stack.",
+    "description": "👋 I'm Shreyas Pangal. I am a Front-End Web Developer, inspired to create web apps and build user experiences. I'm working with front-end technologies like React and Material UI and backend technologies like Node.js and Express.js. I am currently upskilling at Crio.do for Full Stack Web Development.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -13,13 +13,12 @@
     {
       "title": "QKart Frontend",
       "startDate": "2022 March",
-      "description": "One of the first e-commerce apps I was working on my bootcamp. This project helped me understand frontend development using React.js and built a frontend for an E-commerce application. I've learned a lot about react hooks, authentication and how to integrate it seamlessly with Material UI.",
+      "description": "QKart is an e-commerce platform for online shopping, where users can search for products using the search functionality and add their products to the cart and then go through the checkout page to complete the purchase.",
       "images": [
         "images/portfolio/shopping/qkart-homepage.png",
         "images/portfolio/shopping/qkart-checkoutpage.png"
       ],
       "url": "https://qkart-in.netlify.app/",
-
       "technologies": [
         {
           "class": "devicon-javascript-plain",
@@ -44,7 +43,6 @@
         "images/portfolio/news/news-on-mobile.jpg"
       ],
       "url": "https://newsfeed-shreyaspangal.netlify.app/",
-
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -69,7 +67,6 @@
         "images/portfolio/travel/qtrip-explorepage.png"
       ],
       "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
-
       "technologies": [
         {
           "class": "devicon-html5-plain",
@@ -91,7 +88,9 @@
       "company": "Crio",
       "title": "Fellowship Program",
       "years": "01.2022 - present",
-      "mainTech": ["React 4/3/22"],
+      "mainTech": [
+        "React 4/3/22"
+      ],
       "technologies": [
         "React Hooks",
         "Material UI",
@@ -103,8 +102,17 @@
       "company": "Crio",
       "title": "Fellowship Program",
       "years": "10.2021 - 12.2021",
-      "mainTech": ["Javascript 5/10/21"],
-      "technologies": ["REST API", "HTML5", "CSS3", "JavaScript", "Bootstrap", "Ajax"]
+      "mainTech": [
+        "Javascript 5/10/21"
+      ],
+      "technologies": [
+        "REST API",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Ajax"
+      ]
     }
   ]
 }
