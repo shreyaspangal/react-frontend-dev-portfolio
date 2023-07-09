@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Shreyas Pangal",
-    "titles": ["Front-end Developer", "UX/UI Designer"],
+    "titles": ["Front-end Developer", "UX/UI Developer"],
     "social": [
       {
         "name": "github",
@@ -14,7 +14,7 @@
         "class": "fab fa-linkedin"
       }
     ],
-    "image": "shreyas-selfie.jpg"
+    "image": "shreyas-profile-img-blue-shade-bg.png"
   },
   "skills": {
     "icons": [
@@ -41,6 +41,11 @@
       {
         "name": "React",
         "class": "devicon-react-plain",
+        "level": "85"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
         "level": "85"
       },
       {

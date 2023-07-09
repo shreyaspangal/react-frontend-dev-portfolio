@@ -32,7 +32,7 @@ class Projects extends Component {
                     src={projects.images[0]}
                     alt="projectImages"
                     height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative', objectFit: "scale-down"}}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />
@@ -54,7 +54,7 @@ class Projects extends Component {
             <span>{sectionName}</span>
           </h1>
           <div className="col-md-12 mx-auto">
-            <div className="row mx-auto">{projects}</div>
+            <div className="row mx-auto justify-content-center">{projects}</div>
           </div>
           <ProjectDetailsModal
             show={this.state.detailsModalShow}

@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Shreyas Pangal. I am a Front-End Web Developer, inspired to create web apps and build user experiences. I'm working with front-end technologies like React and Material UI and backend technologies like Node.js and Express.js. I am currently upskilling at Crio.do for Full Stack Web Development.",
+    "description": "👋 I'm Shreyas Pangal. I am a Front-End Web Developer, inspired to create web apps and build intuitive user experience. I'm currently working at Tekreant solutions where I build and maintain UI's for multiple web apps.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -35,61 +35,50 @@
       ]
     },
     {
-      "title": "Crio Newsfeed",
-      "startDate": "2022 Feb",
-      "description": " Crio News Feed website is an aggregator which aggregates news content from different websites in one place. It consists of news articles grouped under various topics such as Technology, Politics, Sports etc. I developed this project using HTML, CSS, Bootstrap and JavaScript.",
+      "title": "Tunicalabs Media",
+      "startDate": "2022 May",
+      "description": "QKart is an e-commerce platform for online shopping, where users can search for products using the search functionality and add their products to the cart and then go through the checkout page to complete the purchase.",
       "images": [
-        "images/portfolio/news/breaking-news.jpg",
-        "images/portfolio/news/news-on-mobile.jpg"
+        "images/portfolio/tunicalabs_media/tunicalabs_media_homepage.png",
+        "images/portfolio/tunicalabs_media/tunicalabs_media_addformpage.png"
       ],
-      "url": "https://newsfeed-shreyaspangal.netlify.app/",
+      "url": "https://tunicalabs-media.netlify.app/signin",
       "technologies": [
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
-        },
-        {
           "class": "devicon-javascript-plain",
-          "name": "Javascript"
-        }
-      ]
-    },
-    {
-      "title": "QTrip",
-      "startDate": "2022 Jan",
-      "description": "QTrip is a dynamic travel website where you can find Itinerary details of particular tour and filter locations and experiences according to your needs.",
-      "images": [
-        "images/portfolio/travel/qtrip-homepage.png",
-        "images/portfolio/travel/qtrip-explorepage.png"
-      ],
-      "url": "https://qtrip-dynamic-shreyaspangal.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
+          "name": "Javascript Es6+"
         },
         {
-          "class": "devicon-css3-plain",
-          "name": "CSS"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "Javascript"
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
         }
       ]
     }
   ],
   "experience": [
     {
+      "company": "Tekreant",
+      "title": "Frontend Developer",
+      "years": "06/2022 - Present",
+      "mainTech": [
+        "Angular"
+      ],
+      "technologies": [
+        "Angular",
+        "Bootstrap",
+        "Thrid party integrations"
+      ]
+    },
+    {
       "company": "Crio",
       "title": "Fellowship Program",
-      "years": "01.2022 - present",
+      "years": "01/2022 - 04/2022",
       "mainTech": [
-        "React 4/3/22"
+        "React"
       ],
       "technologies": [
         "React Hooks",
@@ -101,9 +90,9 @@
     {
       "company": "Crio",
       "title": "Fellowship Program",
-      "years": "10.2021 - 12.2021",
+      "years": "10/2021 - 12/2021",
       "mainTech": [
-        "Javascript 5/10/21"
+        "Javascript"
       ],
       "technologies": [
         "REST API",
